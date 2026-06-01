@@ -5,8 +5,15 @@
 # Инициализация
 
 Проект загружен с официальной страницы Steam: https://store.steampowered.com/app/1031140/Warhammer_The_Horus_Heresy_Legions/
+
 Так как файлы проекта могут превышать установленный GitHub лимит в 100 МБайт, в частности _HorusHeresyLegions_Data/resources.assets_ и _HorusHeresyLegions_Data/resources.assets.resS_, в репозиторий добавлен Git LFS (.gitattributes в корневой папке репозитория).
 
 Судя по файловой структуре проекта, игра разработана на движке Unity с использованием IL2CPP (HorusHeresyLegions_Data/il2cpp_data).
 
 SteamStub обнаружен не был (проверено с помощью Steamless: https://github.com/atom0s/Steamless)
+
+# Дешифровка
+
+С помощью инструмента il2cppdumper (https://github.com/perfare/il2cppdumper) был распакован файл global-metadata.dat (расшифрованные файлы расположены в директории Decoded_Data).
+
+Файлы формата .dll можно прочитать с помощью утилиты dnSpy (https://github.com/dnspy/dnspy).
