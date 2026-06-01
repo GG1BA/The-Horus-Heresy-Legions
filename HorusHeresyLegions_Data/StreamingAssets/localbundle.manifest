@@ -1,0 +1,311 @@
+ManifestFileVersion: 0
+CRC: 3123063633
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c0530abbacd7f3a1cd27b5bbcd93bc9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bf9e172e9e0bd8910ca748ed8b246d5f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0c0530abbacd7f3a1cd27b5bbcd93bc9
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/RemoteAssetBundles/CardImages/SoH_Warmaster/SoH_ast_Boralis Tactical Squad.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Syrin 12th Regiment.png
+- Assets/RemoteAssetBundles/CardImages/IF/IF_ast_Kestros2.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_inf_Righteous Zealot.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Remiare.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_veh_Gamma_Theta_11.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Nisrs Scouts.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_inf_Ichiron.png
+- Assets/RemoteAssetBundles/WarlordMenuImages/Other/Warlord Abaddon_AA_menu.png
+- Assets/RemoteAssetBundles/WarlordChats/SoH2/SoH2_Aximand/SoH2_VO_Aximand_intro.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_dae_Father_Decay.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_inf_Shawashan.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 3/Tutorial3_turn701_Aximand.wav
+- Assets/RemoteAssetBundles/WarlordChats/SoH2/SoH2_Aximand/SoH2_VO_Aximand_epic.wav
+- Assets/RemoteAssetBundles/WarlordChats/SoH2/SoH2_Aximand/SoH2_VO_Aximand_concede.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Jubac Starsight.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Unsettled Populace.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Chi_Upsilon_64.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_dae_Battle_Flies.png
+- Assets/RemoteAssetBundles/CardImages/SoH_Warmaster/SoH_ast_Ayax Tactical Squad.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_dae_Sohfepok.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Camba New Filter/CambaTutorial_intro.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Fhorste Engineer.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Xi_Ny_73.png
+- Assets/RemoteAssetBundles/CardImages/IA2/IA_veh_Cthonian Aurox.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_veh_Eta_Kappa_00.png
+- Assets/RemoteAssetBundles/WarlordChats/SoH2/SoH2_Aximand/SoH2_VO_Aximand_vsMeduson.wav
+- Assets/RemoteAssetBundles/CardImages/SoH_Warmaster/SoH_ast_Legionary Solqas.png
+- Assets/RemoteAssetBundles/CosmeticImages/Titandeath/Badges/Badge_IF_The Pharos
+  Assault.png
+- Assets/LocalAssetBundles/localbundle/Warlords/Mech_warlord_Calleb.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_str_Missile Battery.png
+- Assets/RemoteAssetBundles/CardImages/IF/IF_tac_Fortification_Mastery.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_inf_Kenrich.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Urslavik 12th Infantry.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Lastaol.png
+- Assets/RemoteAssetBundles/WarlordMenuImages/Neutral2/IA2_Warlord_Despot Balthazzar_menu.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_inf_Priests_of_Thoros.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_tac_Improvised Cover.png
+- Assets/RemoteAssetBundles/CardImages/IF/IF_str_Perimetral_Defenses.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 2/Tutorial2_turn402_Balthazzar.wav
+- Assets/RemoteAssetBundles/CardImages/IF/IF_veh_Falchion.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_inf_Fire Cultist.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Ambassador_Melgator.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_veh_The Emperors Blessing.png
+- Assets/RemoteAssetBundles/WarlordChats/SoH2/SoH2_Aximand/SoH2_VO_Aximand_rare.wav
+- Assets/RemoteAssetBundles/WarlordChats/IF/Camba-Diaz/Camba_match_KelborHal.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_tac_Seek_and_Destroy.png
+- Assets/RemoteAssetBundles/WarlordChats/IF/Camba-Diaz/Camba_intro.wav
+- Assets/RemoteAssetBundles/WarlordChats/IF/Camba-Diaz/Camba_threat.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_tac_Utility_Mechandrite.png
+- Assets/RemoteAssetBundles/WarlordChats/SoH2/SoH2_Aximand/SoH2_VO_Aximand_mirror.wav
+- Assets/RemoteAssetBundles/WarlordChats/IF/Camba-Diaz/Camba_wp.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Calth 3rd Infantry.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Fellesian 23rd Airborne.png
+- Assets/LocalAssetBundles/localbundle/Cosmetics/Badges/Badge_Eagle_of_Imperium.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 1/Tutorial1_prebattle1_Camba.wav
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 2/Tutorial2_ending1_Camba.wav
+- Assets/RemoteAssetBundles/CardImages/SoH_Warmaster/SoH_Warlord_Horus Aximand.png
+- Assets/RemoteAssetBundles/WarlordChats/SoH2/SoH2_Aximand/SoH2_VO_Aximand_vsEidolon.wav
+- Assets/RemoteAssetBundles/WarlordChats/SoH2/SoH2_Aximand/SoH2_VO_Aximand_wp.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_inf_Abisha.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Events/Tac_Lectitio_Divinitatus.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Machinator_Squad.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Phyrian 2nd Auxiliar.png
+- Assets/RemoteAssetBundles/WarlordChats/IF/Camba-Diaz/Camba_concede.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_tac_Sabotage.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_tac_Ornatovs Barge.png
+- Assets/LocalAssetBundles/localbundle/Cosmetics/CardBacks/Cardback_Camba_Diaz.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_veh_Rho_Tau_17.png
+- Assets/RemoteAssetBundles/WarlordChats/SoH2/SoH2_Aximand/SoH2_VO_Aximand_greet.wav
+- Assets/RemoteAssetBundles/WarlordChats/SoH2/SoH2_Aximand/SoH2_VO_Aximand_attack.wav
+- Assets/RemoteAssetBundles/CosmeticImages/IsstvanIII/Badges/Badge_Burning_Star.png
+- Assets/RemoteAssetBundles/CosmeticImages/IsstvanIII/Badges/Badge_Sons_of_horus.png
+- Assets/LocalAssetBundles/localbundle/Backgrounds/Battle_Background_Terra_Balcony.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 1/Tutorial1_turn602_Aximand.wav
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Camba New Filter/CambaTutorial_wp.wav
+- Assets/RemoteAssetBundles/WarlordEventImages/IF/IF_Warlord_Camba_Diaz_Events.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_veh_Fire Walkers.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_veh_Doombringer.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_tac_Chaos_Mechadendrite.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Barnads Sappers.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Sadeks Fighters.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 1/Tutorial1_prebattle2_Aximand.wav
+- Assets/RemoteAssetBundles/CardImages/IA2/IA_inf_Volkite Veletaris.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Alpha_Rho_25.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_dae_Terror_Hounds.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Urtzi_Malevolus.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Epsilon_rho_32.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Hanuns Mortars.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_inf_Tsi_Rekh.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Winter Squad.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Koriel_Zeth.png
+- Assets/RemoteAssetBundles/WarlordChats/Chaos2/Balthazzar Dupain/BalthazzarDupain_rare.wav
+- Assets/RemoteAssetBundles/WarlordChats/IF/Camba-Diaz/Camba_death.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_dae_TiLaths_Changers.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_inf_Wounded Zealot.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_tac_Pax Chaotica.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_veh_Hells Fury.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_tac_Barge_of_the_Damned.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Fhorste Ogryn.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 2/Tutorial2_turn602_Balthazzar.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_inf_Brotherhood of the
+  Knife.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_dae_Seducers.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 1/Tutorial1_turn301_Aximand.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_veh_Asad Chimera.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_str_Underground Fort.png
+- Assets/RemoteAssetBundles/WarlordChats/IF/Camba-Diaz/Camba_match_Polux.wav
+- Assets/RemoteAssetBundles/CardImages/IF2_Warmaster/IF_ast_Sergeant Reinor.png
+- Assets/RemoteAssetBundles/CardImages/IA2/IA_veh_Quad Launcher.png
+- Assets/LocalAssetBundles/localbundle/Cosmetics/CardBacks/Cardback_Loyalist 1.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_tac_Optical_Mechadendrite.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Camba New Filter/CambaTutorial_attack.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Sigma_Phi_19.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_dae_SwarmOfFlies.png
+- Assets/RemoteAssetBundles/CardImages/IF2_Warmaster/IF_ast_Sergeant Kolm.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 3/Tutorial3_turn201_Camba.wav
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 2/Tutorial2_turn201_Camba.wav
+- Assets/LocalAssetBundles/localbundle/Warlords/Chaos_warlord_Ingethel.png
+- Assets/RemoteAssetBundles/CardImages/Neutrals_Terra/Chaos_tac_Burning_of_Bodt.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 1/Tutorial1_turn201_Camba.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_str_Timed_Melta_Bomb.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_veh_Helios Mortar Carrier.png
+- Assets/RemoteAssetBundles/CardImages/IA2/IA_inf_Power Axe Section.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_inf_Reldred.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 1/Tutorial1_ending1_Aximand.wav
+- Assets/RemoteAssetBundles/CardImages/IA2/IA_veh_Multi-Laser Battery.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 3/Tutorial3_turn501_Aximand.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_veh_Maniple_Gamma_Mu.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_tac_Mortar Strike.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Pi_Alpha_52.png
+- Assets/RemoteAssetBundles/CardImages/IA2/IA_inf_Legate Commander.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_veh_The_Kaban_Project.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Sibilans.png
+- Assets/RemoteAssetBundles/WarlordChats/IF/Camba-Diaz/Camba_common.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Merrets Mercenaries.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Alpha_Zeta_54.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_veh_Phi_Alpha_2.png
+- Assets/RemoteAssetBundles/CardImages/IA2/IA_Warlord_Despot Balthazzar.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Markovs Rangers.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Theta_Mu_24.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Smernovs Warriors.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_dae_Abyssa.png
+- Assets/RemoteAssetBundles/WarlordChats/Chaos2/Balthazzar Dupain/BalthazzarDupain_concede.wav
+- Assets/RemoteAssetBundles/WarlordChats/IF/Camba-Diaz/Camba_epic.wav
+- Assets/LocalAssetBundles/localbundle/Backgrounds/CampaignBG_Phall.jpg
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Fasadian 45th Infantry.png
+- Assets/RemoteAssetBundles/WarlordChats/IF/Camba-Diaz/Camba_attack.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_dae_Qindi.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_veh_Gamma_Psi_24.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 2/Tutorial2_turn401_Camba.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_dae_Madail.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_tac_Taint_of_Chaos.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 1/Tutorial1_turn601_Camba.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_tac_Defense_Satellites.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Alpha_Theta_11.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Calth 2nd Irregulars.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_str_Bunker.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 2/Tutorial2_turn702_Balthazzar.wav
+- Assets/RemoteAssetBundles/CardImages/IA2/IA_inf_Grenadier.png
+- Assets/RemoteAssetBundles/CardImages/SoH_Warmaster/SoH_veh_Ancient Decurius Judd.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Duke Mortecher.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_veh_Fellesian 5th Airborne.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Fabricator_General_of_Mars.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 2/Tutorial2_turn101_Camba.wav
+- Assets/RemoteAssetBundles/WarlordChats/SoH2/SoH2_Aximand/SoH2_VO_Aximand_threat.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_dae_Nurgling_Swarm.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_mark_Nurgle.png
+- Assets/RemoteAssetBundles/CardImages/SoH_Warmaster/SoH_tac_Conquering Host.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_tac_Aratan Capitol Ship.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Gropps Riders.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_veh_Rho_Mu_31.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Sallan 11th Infantry.png
+- Assets/RemoteAssetBundles/CardImages/IF/IF_ast_Grossbar_Squad.png
+- Assets/RemoteAssetBundles/CardImages/IF/IF_warlord_Camba_Diaz.png
+- Assets/RemoteAssetBundles/CardImages/IA2/IA_veh_Carnodon Tank.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_Carya.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_inf_Lutgardis Cultists.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_mark_Slaanesh.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_mark_Tzeentch.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_str_Command Post.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 2/Tutorial2_ending2_Balthazzar.wav
+- Assets/RemoteAssetBundles/WarlordChats/Chaos2/Balthazzar Dupain/BalthazzarDupain_death.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Events/Embers_of_IsstvanIII.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Vallis Brigade.png
+- Assets/RemoteAssetBundles/CardImages/IF/IF_tac_Stone_Gauntlet.png
+- Assets/RemoteAssetBundles/CardImages/SoH_Warmaster/SoH_tac_Furious Shooting.png
+- Assets/RemoteAssetBundles/WarlordChats/IF/Camba-Diaz/Camba_match_Perturabo.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Andrei Ornatov.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 3/Tutorial3_ending2_Aximand.wav
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 1/Tutorial1_turn102_Aximand.wav
+- Assets/RemoteAssetBundles/CardImages/SoH_Warmaster/SoH_veh_Vortum_the_thrice_fallen.png
+- Assets/RemoteAssetBundles/CardImages/SoH_Warmaster/SoH_ast_Captain Haruun.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_inf_Horsa Cultists.png
+- Assets/RemoteAssetBundles/WarlordChats/IF/Camba-Diaz/Camba_rare.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_dae_Ravagers_of_Khorne.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 3/Tutorial3_prebattle2_Camba.wav
+- Assets/RemoteAssetBundles/CardImages/SoH_Warmaster/SoH_ast_Sergeant Kalhim.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Delta_Omega_42.png
+- Assets/RemoteAssetBundles/WarlordChats/IF/Camba-Diaz/Camba_match_Dorn.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_veh_Deriuz_Rhino.png
+- Assets/LocalAssetBundles/localbundle/Cosmetics/CardBacks/Cardback_Chaos.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_inf_Tancred.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Arcadias.png
+- Assets/RemoteAssetBundles/CardImages/IF2_Warmaster/IF_inf_Legionary Hagen.png
+- Assets/LocalAssetBundles/localbundle/Backgrounds/Battle_Background_Terra_Palace.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 1/Tutorial1_ending2_Aximand.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_veh_Chi_Mu_25.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_veh_Nogahiel.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_veh_Lernaia Hydra Platform.png
+- Assets/RemoteAssetBundles/WarlordChats/IF/Camba-Diaz/Camba_match_Sigismund.wav
+- Assets/RemoteAssetBundles/CardImages/IF/IF_ast_Aximov_Support_Squad.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 3/Tutorial3_prebattle1_Aximand.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_inf_Ivlen.png
+- Assets/RemoteAssetBundles/WarlordEventImages/SoH2/SoH2_Warlord_Aximand_event.png
+- Assets/RemoteAssetBundles/CardImages/SoH_Warmaster/SoH_ast_Ezriah Support Squad.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_veh_Delta_Omega_03.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_tac_Melta_Bomb.png
+- Assets/RemoteAssetBundles/WarlordChats/SoH2/SoH2_Aximand/SoH2_VO_Aximand_common.wav
+- Assets/RemoteAssetBundles/WarlordChats/Chaos2/Balthazzar Dupain/BalthazzarDupain_threat.wav
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 3/Tutorial3_turn202_Aximand.wav
+- Assets/RemoteAssetBundles/WarlordChats/IF/Camba-Diaz/Camba_match_Fafnir.wav
+- Assets/RemoteAssetBundles/WarlordChats/SoH2/SoH2_Aximand/SoH2_VO_Aximand_vsHibou.wav
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 2/Tutorial2_turn901_Camba.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_veh_Zeta_Pi_7.png
+- Assets/LocalAssetBundles/localbundle/Backgrounds/newBg_IsstvanIII.jpg
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Ghazalds Defenders.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Reighners Squad.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_tac_Krak_Grenade.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_dae_Yria_the_Seducer.png
+- Assets/RemoteAssetBundles/CardImages/IF/IF_ast_Garadon_Squad.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_tac_Training_Cage.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Camba New Filter/CambaTutorial_concede.wav
+- Assets/LocalAssetBundles/localbundle/Cosmetics/CardBacks/Cardback_Aximand.png
+- Assets/RemoteAssetBundles/CardImages/SoH_Warmaster/SoH_tac_DeathDealers.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_McCormicks Reapers.png
+- Assets/RemoteAssetBundles/CardImages/SoH_Warmaster/SoH_veh_Kratos_Heavy_Assault_Tank.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Boriss Trackers.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_dae_Slayer_of_Worlds.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_dae_TiLath.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_veh_Maniple_Tau_Mu.png
+- Assets/RemoteAssetBundles/WarlordChats/Chaos2/Balthazzar Dupain/BalthazzarDupain_vsCamba.wav
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 2/Tutorial2_prebattle1_Balthazzar.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_veh_Zerials Storm.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Camba New Filter/CambaTutorial_rare.wav
+- Assets/RemoteAssetBundles/WarlordChats/SoH2/SoH2_Aximand/SoH2_VO_Aximand_vsTBC.wav
+- Assets/RemoteAssetBundles/WarlordEventImages/Warmaster/IA_Warlord_Despot Balthazzar
+  Dupain_event.png
+- Assets/RemoteAssetBundles/WarlordMenuImages/SoH2/SoH2_Warlord_Horus Aximand_Menu.png
+- Assets/RemoteAssetBundles/WarlordChats/SoH2/SoH2_Aximand/SoH2_VO_Aximand_death.wav
+- Assets/RemoteAssetBundles/WarlordChats/IF/Camba-Diaz/Camba_match_QinXa.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Epsilon_Alpha_63.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 3/Tutorial3_ending1_Camba.wav
+- Assets/RemoteAssetBundles/WarlordChats/SoH2/SoH2_Aximand/SoH2_VO_Aximand_vsAbaddon.wav
+- Assets/RemoteAssetBundles/WarlordChats/Chaos2/Balthazzar Dupain/BalthazzarDupain_attack.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_veh_Bile_Hell_Cannon.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Camba New Filter/CambaTutorial_vsFafnir.wav
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 1/Tutorial1_turn101_Camba.wav
+- Assets/RemoteAssetBundles/CardImages/IA2/IA_veh_Cthonian Basilisk.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_veh_Lambda_Zeta_01.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Lukaz_Chrom.png
+- Assets/RemoteAssetBundles/CardImages/IA2/IA_inf_Flamer Section.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 2/Tutorial2_turn902_Balthazzar.wav
+- Assets/RemoteAssetBundles/CardImages/IA2/IA_tac_Avenger Strike.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Telemoht.png
+- Assets/RemoteAssetBundles/WarlordChats/IF/Camba-Diaz/Camba_mirror.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_tac_Offensive_Mechandrite.png
+- Assets/RemoteAssetBundles/CosmeticImages/Titandeath/Cardbacks/Cardback_Ornatov.png
+- Assets/RemoteAssetBundles/CardImages/IF/IF_ast_Sergeant_Tylaeus.png
+- Assets/RemoteAssetBundles/CardImages/IF/IF_ast_Praetorian_Recruit.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Camba New Filter/CambaTutorial_death.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_inf_Muernan.png
+- Assets/RemoteAssetBundles/CardImages/IF/IF_ast_Lordann_Terminator_Squad.png
+- Assets/LocalAssetBundles/localbundle/Neutral - IA/IA_inf_Ferons Militia.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_tac_The Trap.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_veh_Alpha_Omega_05.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_veh_Maniple_Gamma_Rho.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Delta_Psi_02.png
+- Assets/RemoteAssetBundles/CardImages/IF/IF_str_Sentry_Turret.png
+- Assets/RemoteAssetBundles/CardImages/SoH_Warmaster/SoH_ast_Legionary_Guljuk_Ygethddon.png
+- Assets/RemoteAssetBundles/WarlordChats/IF/Camba-Diaz/Camba_greet.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_mark_Khorne.png
+- Assets/RemoteAssetBundles/WarlordChats/Tutorial Warmaster/Tutorial 2/Tutorial2_turn701_Camba.wav
+- Assets/LocalAssetBundles/localbundle/Neutral - Chaos/Chaos_inf_Cabalist.png
+- Assets/LocalAssetBundles/localbundle/Neutral - Mechanicus/MECH_inf_Epsilon_Sigma_05.png
+- Assets/RemoteAssetBundles/CardImages/SoH_Warmaster/SoH_veh_Akhaten Spartan.png
+- Assets/RemoteAssetBundles/WarlordMenuImages/IF/IF_Warlord_Camba_Diaz_menu.png
+Dependencies: []

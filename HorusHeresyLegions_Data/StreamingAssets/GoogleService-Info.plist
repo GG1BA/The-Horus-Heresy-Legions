@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>888658566123-ibad9i8fc8tq0836ju0bp9roav6nltj1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.888658566123-ibad9i8fc8tq0836ju0bp9roav6nltj1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>888658566123-3ui0ur00gbf747qf62dgivhtllr99anl.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA92dkaidVAk3EhlxcoogpqwuwxsYdQUHY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>888658566123</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Everguild.HorusHeresy</string>
+	<key>PROJECT_ID</key>
+	<string>horus-heresy-ccg-16107021</string>
+	<key>STORAGE_BUCKET</key>
+	<string>horus-heresy-ccg-16107021.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:888658566123:ios:13420d6a440edb53</string>
+	<key>DATABASE_URL</key>
+	<string>https://horus-heresy-ccg-16107021.firebaseio.com</string>
+</dict>
+</plist>

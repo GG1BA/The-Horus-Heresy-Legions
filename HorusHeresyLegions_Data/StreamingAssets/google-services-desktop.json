@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "888658566123",
+    "firebase_url": "https://horus-heresy-ccg-16107021.firebaseio.com",
+    "project_id": "horus-heresy-ccg-16107021",
+    "storage_bucket": "horus-heresy-ccg-16107021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888658566123:android:13420d6a440edb53",
+        "android_client_info": {
+          "package_name": "com.Everguild.HorusHeresy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888658566123-rsu2laekfjhej79mvcka7sp182v1i76g.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "888658566123-3ui0ur00gbf747qf62dgivhtllr99anl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Everguild.HorusHeresy",
+            "certificate_hash": "9e0f247f9721faf666b90afab306a9e136cf525d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6F2GnGxuL8IEWkz6grU_HYO1K0n_S2PI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888658566123-rsu2laekfjhej79mvcka7sp182v1i76g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888658566123-ibad9i8fc8tq0836ju0bp9roav6nltj1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Everguild.HorusHeresy"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
